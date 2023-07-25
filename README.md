@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JHC521PJJ.
 - 👀 I’m interested in CUDA and CV.
-- 🌱 I’m currently learning in CQU
-- 💞️ I’m looking to collaborate on Nvidia
+- 🌱 I’m currently learning in CQU.
+- 💞️ I’m looking to collaborate on deep learning deployments.
 - 📫 How to reach me 296191380@qq.com.
 
 <!---
